@@ -1,6 +1,6 @@
 <p align="center"><img width="900" height="350" src="https://i.pinimg.com/originals/23/3d/74/233d74f3fd24e51ed5e9dba0992fc868.gif" /></p>
 <h1 align="center">Hi 👋, I'm Satrio Pratama Wijaya</h1>
-<h3 align="center">A passionate software engineer from Indonesia</h3>
+<h3 align="center">A student interested in software engineering from Indonesia</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=satriopratama75&label=Profile%20views&color=0e75b6&style=flat" alt="satriopratama75" /> </p>
 
