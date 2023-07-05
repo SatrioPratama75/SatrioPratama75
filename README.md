@@ -1,4 +1,4 @@
-<p><img src=" " /></p>
+<p align="center"><img width="400" src="Logo-MeRound.png" /></p>
 <h1 align="center">Hi 👋, I'm Satrio Pratama Wijaya</h1>
 <h3 align="center">A passionate software engineer from Indonesia</h3>
 
